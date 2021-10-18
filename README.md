@@ -9,4 +9,4 @@ A Minecraft plugin designed to easily import map data for use in Evolution. Made
   - To use the region tool, left-click the block you want to be one vertex of your region. Once two blocks are left-clicked, your region is defined.
 - `/region print`: Prints the coordinates of the corners chosen for your region.
 - `/region clear`: Resets the Region Tool.
-- `/region process`: Logs the ordinal values of each block within the region into `out.csv`.
+- `/region process`: Logs the ordinal values of each block within the region into `blocks.csv`.
