@@ -1,0 +1,9 @@
+name: EvolutionMaps
+version: '${project.version}'
+main: me.averylg.evolutionmaps.Main
+api-version: 1.17
+authors: [ averylg ]
+description: Lets the player create a region by selecting two blocks as vertices. Records each block ordinal within a chosen region into a csv sheet.
+commands:
+  region:
+    description: Allows the player to use the Region Tool to create and process regional areas.
