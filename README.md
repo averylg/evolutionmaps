@@ -1,4 +1,4 @@
-# evolutionmaps
+# EvolutionMaps
 A Minecraft plugin designed to easily import map data for use in Evolution. Made with PaperMC for Minecraft version 1.17.1.
 
 # How to Use
